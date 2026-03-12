@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'UChicago I-House Website Accessibility'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Led a structured accessibility improvement project for the International House website at the University of Chicago using Siteimprove accessibility audits and manual HTML review. The work focused on resolving recurring accessibility issues across more than 1,500 pages, including missing image alt text, unlabeled buttons, unlabeled links, and decorative images incorrectly exposed to assistive technologies. Implemented scalable fixes through improved HTML attributes (alt, aria-label), screen-reader friendly labeling, and pattern-based remediation across site templates built with WordPress and Divi. The project resolved over 65,000 accessibility occurrences and improved the site’s accessibility compliance by 4.56 Siteimprove conformance points, while producing a technical report and documentation repository to guide future maintenance and accessibility reviews.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="[https://github.com/cev2030/ihouse-website-accessibility]" image="projects/proj-2/thumbnail.jpg" %}
