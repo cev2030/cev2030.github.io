@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-Carlos Eduardo Vargas is a social innovator and policy professional working at the intersection of institutions, technology, and community-driven impact. He is currently pursuing an M.S. in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago, building on a background in law, governance, and business administration.
+---
+layout: post
+title: "Getting Started"
+---
 
-Carlos has over a decade of experience designing and leading initiatives in social innovation, public value creation, and international development. He has founded and led organizations in Venezuela & LATAM including 1001 Ideas, the InterAmerican Public Innovation Agency, Cultura Lírica, and Ideas Inquietas, working with purpose-led entrepreneurs, artists, and civic actors to translate ideas into scalable impact.
-
-His professional experience spans institutional governance, strategic partnerships, and resource mobilization. Most recently, he served as Resource Mobilization and Strategic Partnership Officer at UNFPA Venezuela (2024–2025), supporting humanitarian and development programs through cross-sector collaboration.
-
-At UChicago, Carlos complements his background with applied technical work, including computational analysis and digital accessibility initiatives, while remaining deeply engaged in community-building and student governance. He is particularly interested in how data, technology, and institutional design can be leveraged to make impact-driven systems more accessible, legitimate and sustainable.
-
-He has participated in and contributed to global forums such as One Young World and the World Economic Forum’s Global Shapers Community, and continues to work across disciplines and cultures to bridge technology, business and impact.
-=======
-# Portfolio Jekyll Theme
-
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out [this article](https://paulle.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages).
 
 Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
 
@@ -254,4 +246,3 @@ This theme is completely free and open source software. You may use it however y
 ## License
 
 Open sourced under the [MIT license](https://github.com/LeNPaul/portfolio-jekyll-theme/blob/gh-pages/LICENSE.md).
->>>>>>> theme/gh-pages
