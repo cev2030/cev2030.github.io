@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-{% include image.html image="about/_MG_0338.jpg" %}
+![Carlos Eduardo Vargas]({{ site.baseurl }}/assets/img/about/_MG_0338.jpg)
 
 # Carlos Eduardo Vargas
 
