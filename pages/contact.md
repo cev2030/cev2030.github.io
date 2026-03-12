@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:cev@uchicago.edu).
+You may contact me through my email: cev@uchicago.edu.
