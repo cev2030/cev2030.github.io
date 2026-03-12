@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
+{% include image.html url="http://www.gratisography.com" image="about/_MG_0338.jpg" %}
+
 # Carlos Eduardo Vargas
 
 Carlos Eduardo Vargas is a social innovator and policy professional working at the intersection of institutions, technology, and community-driven impact. He is currently pursuing an M.S. in Computational Analysis and Public Policy (MSCAPP) at the University of Chicago, building on a background in law, governance, and business administration.
