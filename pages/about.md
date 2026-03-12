@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-![Carlos Eduardo Vargas]({{ site.baseurl }}/assets/img/about/_MG_0338.jpg)
+<img src="{{ site.baseurl }}/assets/img/about/_MG_0338.jpg" alt="Carlos Eduardo Vargas" style="width: 200px; border-radius: 50%; float: right; margin: 0 0 20px 20px;">
 
 # Carlos Eduardo Vargas
 
