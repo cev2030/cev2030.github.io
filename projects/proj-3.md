@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Digital Intermediation for Social Enterprises'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+This project examined how digital intermediation platforms can enable hybrid social enterprises to scale their commercial and social impact simultaneously. Through a quantitative longitudinal case study of 1001 Ideas, I analyzed how marketplace-style e-commerce models reduce market entry barriers for mission-driven producers while expanding access to socially responsible products for consumers. The research involved designing and administering survey instruments to identify entrepreneurial constraints and measure consumer demand for impact-oriented goods, as well as analyzing platform dynamics over time. Based on these findings, I developed an adapted Social Enterprise Business Model Canvas that integrates mission alignment, impact metrics, and revenue generation to evaluate scalability pathways for hybrid organizations operating at the intersection of social impact and digital commerce.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+{% include image.html url=["https://drive.google.com/file/d/1vnWpahqzCYVvfi8DQWJd_ROW8jLdDrMm/view?usp=sharing"] image="projects/proj-3/thumbnail.jpg" %}
