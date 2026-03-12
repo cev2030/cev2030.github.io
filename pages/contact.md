@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me through my email: cev@uchicago.edu.
+cev@uchicago.edu.
