@@ -2,7 +2,7 @@
 layout: post
 title: "Data Centers Next Door (CAPP 122)"
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+Data Centers Next Door is a data analysis and visualization project that examines how the development of data centers may affect local housing conditions in the Chicagoland area. Using publicly available datasets on data center locations, housing prices, and housing cost indicators, the project builds a reproducible data pipeline to clean, merge, and analyze these sources. The analysis explores changes in housing prices and housing cost scores before and after data center permitting, and summarizes potential local impacts through an interpretable impact score. Results are presented through interactive visualizations and a web dashboard, allowing users to explore how different facilities may be associated with changes in surrounding housing markets.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 
