@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-cev@uchicago.edu.
+cev@uchicago.edu
