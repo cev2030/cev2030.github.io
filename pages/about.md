@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-{% include image.html url="http://www.gratisography.com" image="about/_MG_0338.jpg" %}
+{% include image.html image="about/_MG_0338.jpg" %}
 
 # Carlos Eduardo Vargas
 
